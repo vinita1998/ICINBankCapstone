@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Admin_Service_ICIN/.mvn/wrapper"/>
+	<classpathentry kind="src" path="Admin_Service_ICIN/src/main/java"/>
+	<classpathentry kind="src" path="Admin_Service_ICIN/src/test/java"/>
+	<classpathentry kind="src" path="ICINbank_new/.mvn/wrapper"/>
+	<classpathentry kind="src" path="ICINbank_new/src/main/java"/>
+	<classpathentry kind="src" path="ICINbank_new/src/test/java"/>
+	<classpathentry kind="src" path="Selenium_Test/Admin_PortalAutomation/src"/>
+	<classpathentry kind="src" path="Selenium_Test/User_PortalTesting/src/test/java"/>
+	<classpathentry kind="src" path="User/user_service/.mvn/wrapper"/>
+	<classpathentry kind="src" path="User/user_service/src/main/java"/>
+	<classpathentry kind="src" path="User/user_service/src/test/java"/>
+	<classpathentry kind="lib" path="ICINbank_new/bin/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="lib" path="User/user_service/bin/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="output" path="Admin_Service_ICIN/target/classes"/>
+</classpath>
